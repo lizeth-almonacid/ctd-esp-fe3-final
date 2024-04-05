@@ -1,0 +1,460 @@
+[
+  {
+      "id": 0,
+      "nombre": "The Legend of Zelda: Breath of the Wild",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Nintendo",
+      "fecha_lanzamiento": "2017-03-03",
+      "precio": 59.99,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d1/BOTW_%2835018356406%29.jpg"
+  },
+  {
+      "id": 1,
+      "nombre": "Elden Ring",
+      "categoria": [
+          "Accion"
+      ],
+      "desarrollador": "FromSoftware",
+      "fecha_lanzamiento": "2022-02-25",
+      "precio": 59.99,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Elden_Ring_-_Title.png"
+  },
+  {
+      "id": 2,
+      "nombre": "Grand Theft Auto V",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Rockstar North",
+      "fecha_lanzamiento": "2013-09-17",
+      "precio": 39.99,
+      "imagen": "https://gmedia.playstation.com/is/image/SIEPDC/GTAV-product-gen9-01-en-3mar22?$1600px$"
+  },
+  {
+      "id": 3,
+      "nombre": "Minecraft",
+      "categoria": [
+          "Sandbox"
+      ],
+      "desarrollador": "Mojang Studios",
+      "fecha_lanzamiento": "2011-05-19",
+      "precio": 26.99,
+      "imagen": "https://image.api.playstation.com/vulcan/img/cfn/11307uYG0CXzRuA9aryByTHYrQLFz-HVQ3VVl7aAysxK15HMpqjkAIcC_R5vdfZt52hAXQNHoYhSuoSq_46_MT_tDBcLu49I.png?w=440&thumb=false"
+  },
+  {
+      "id": 4,
+      "nombre": "Super Mario Odyssey",
+      "categoria": [
+          "Plataformas"
+      ],
+      "desarrollador": "Nintendo EPD",
+      "fecha_lanzamiento": "2017-10-27",
+      "precio": 59.99,
+      "imagen": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5"
+  },
+  {
+      "id": 5,
+      "nombre": "Red Dead Redemption 2",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Rockstar North",
+      "fecha_lanzamiento": "2018-10-26",
+      "precio": 39.99,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/22/Red_Dead_Redemption_2_Logo.png"
+  },
+  {
+      "id": 6,
+      "nombre": "Horizon Forbidden West",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Guerrilla Games",
+      "fecha_lanzamiento": "2022-02-18",
+      "precio": 59.99,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/79/Horizon_Forbidden_West_logo.svg"
+  },
+  {
+      "id": 7,
+      "nombre": "God of War",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Santa Monica Studio",
+      "fecha_lanzamiento": "2018-04-20",
+      "precio": 39.99,
+      "imagen": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/LsaRVLF2IU2L1FNtu9d3MKLq.jpg?w=440&thumb=false"
+  },
+  {
+      "id": 8,
+      "nombre": "The Witcher 3: Wild Hunt",
+      "categoria": [
+          "Accion"
+      ],
+      "desarrollador": "CD Projekt RED",
+      "fecha_lanzamiento": "2015-05-19",
+      "precio": 29.99,
+      "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0914/TvcIHkYqqln1RGbaFqBeuFp6.jpg?w=440&thumb=false"
+  },
+  {
+      "id": 9,
+      "nombre": "Super Smash Bros. Ultimate",
+      "categoria": [
+          "Lucha"
+      ],
+      "desarrollador": "Bandai Namco Studios",
+      "fecha_lanzamiento": "2018-12-07",
+      "precio": 59.99,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/96/Super_Smash_Bros._Ultimate_logo.svg"
+  },
+  {
+      "id": 10,
+      "nombre": "Spider-Man",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Insomniac Games",
+      "fecha_lanzamiento": "2018-09-07",
+      "precio": 39.99,
+      "imagen": "https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-desktop-wallpaper-03-en-15dec20?$1600px--t$"
+  },
+  {
+      "id": 11,
+      "nombre": "Animal Crossing: New Horizons",
+      "categoria": [
+          "Simulacion"
+      ],
+      "desarrollador": "Nintendo EPD",
+      "fecha_lanzamiento": "2020-03-20",
+      "precio": 59.99,
+      "imagen": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a"
+  },
+  {
+      "id": 12,
+      "nombre": "Luigi's Mansion 3",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Next Level Games",
+      "fecha_lanzamiento": "2019-10-31",
+      "precio": 59.99,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Luigi%27s_mansion_3_logo.jpg"
+  },
+  {
+      "id": 13,
+      "nombre": "Kirby and the Forgotten Land",
+      "categoria": [
+          "Plataformas"
+      ],
+      "desarrollador": "HAL Laboratory",
+      "fecha_lanzamiento": "2022-03-25",
+      "precio": 59.99,
+      "imagen": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000046405/a59d040ba1c59da35da603df012d1c18d00a36c55981c8b620cec93b6bfa3576"
+  },
+  {
+      "id": 14,
+      "nombre": "The Last of Us Part II",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Naughty Dog",
+      "fecha_lanzamiento": "2020-06-19",
+      "precio": 39.99,
+      "imagen": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/itbSm3suGHSSHIpmu9CCPBRy.jpg?w=440&thumb=false"
+  },
+  {
+      "id": 15,
+      "nombre": "Ghost of Tsushima",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Sucker Punch Productions",
+      "fecha_lanzamiento": "2020-07-17",
+      "precio": 39.99,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/26/GOT_Logo-Black.png"
+  },
+  {
+      "id": 16,
+      "nombre": "Ratchet & Clank: Rift Apart",
+      "categoria": [
+          "Plataformas"
+      ],
+      "desarrollador": "Insomniac Games",
+      "fecha_lanzamiento": "2021-06-11",
+      "precio": 59.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1895880/header.jpg?t=1695916209"
+  },
+  {
+      "id": 17,
+      "nombre": "Metroid Dread",
+      "categoria": [
+          "Plataformas"
+      ],
+      "desarrollador": "MercurySteam",
+      "fecha_lanzamiento": "2021-10-08",
+      "precio": 59.99,
+      "imagen": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000042924/c7e6839975afd46893274cf7cfdb63b39a54d6f700938bcd1c8849ac66755d00"
+  },
+  {
+      "id": 18,
+      "nombre": "Yakuza 0",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Ryu ga Gotoku Studio",
+      "fecha_lanzamiento": "2017-01-24",
+      "precio": 29.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/638970/header.jpg?t=1685702171"
+  },
+  {
+      "id": 19,
+      "nombre": "NieR: Automata",
+      "categoria": [
+          "Accion"
+      ],
+      "desarrollador": "PlatinumGames",
+      "fecha_lanzamiento": "2017-03-07",
+      "precio": 29.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/header.jpg?t=1696405478"
+  },
+  {
+      "id": 20,
+      "nombre": "Celeste",
+      "categoria": [
+          "Plataformas"
+      ],
+      "desarrollador": "Matt Makes Games",
+      "fecha_lanzamiento": "2018-01-25",
+      "precio": 19.99,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Celeste_box_art_full.png"
+  },
+  {
+      "id": 21,
+      "nombre": "Hollow Knight",
+      "categoria": [
+          "Metroidvania"
+      ],
+      "desarrollador": "Team Cherry",
+      "fecha_lanzamiento": "2017-02-25",
+      "precio": 19.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg?t=1695270428"
+  },
+  {
+      "id": 22,
+      "nombre": "Cuphead",
+      "categoria": [
+          "Plataformas"
+      ],
+      "desarrollador": "Studio MDHR",
+      "fecha_lanzamiento": "2017-09-29",
+      "precio": 19.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/header.jpg?t=1695655205"
+  },
+  {
+      "id": 23,
+      "nombre": "Stardew Valley",
+      "categoria": [
+          "Simulacion"
+      ],
+      "desarrollador": "ConcernedApe",
+      "fecha_lanzamiento": "2016-02-26",
+      "precio": 14.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg?t=1666917466"
+  },
+  {
+      "id": 24,
+      "nombre": "Factorio",
+      "categoria": [
+          "Simulacion"
+      ],
+      "desarrollador": "Wube Software",
+      "fecha_lanzamiento": "2020-08-14",
+      "precio": 29.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/427520/header.jpg?t=1694021968"
+  },
+  {
+      "id": 25,
+      "nombre": "Disco Elysium",
+      "categoria": [
+          "Rol"
+      ],
+      "desarrollador": "ZA/UM",
+      "fecha_lanzamiento": "2019-01-15",
+      "precio": 29.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/header.jpg?t=1681291304"
+  },
+  {
+      "id": 26,
+      "nombre": "Hades",
+      "categoria": [
+          "Accion"
+      ],
+      "desarrollador": "Supergiant Games",
+      "fecha_lanzamiento": "2020-09-17",
+      "precio": 29.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg?t=1680293801"
+  },
+  {
+      "id": 27,
+      "nombre": "Returnal",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Housemarque",
+      "fecha_lanzamiento": "2021-03-19",
+      "precio": 69.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1649240/header.jpg?t=1696502086"
+  },
+  {
+      "id": 28,
+      "nombre": "Inscryption",
+      "categoria": [
+          "Cartas"
+      ],
+      "desarrollador": "Daniel Mullins Games",
+      "fecha_lanzamiento": "2021-10-19",
+      "precio": 19.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1092790/header.jpg?t=1660265312"
+  },
+  {
+      "id": 29,
+      "nombre": "Ratchet & Clank: Rift Apart",
+      "categoria": [
+          "Plataformas"
+      ],
+      "desarrollador": "Insomniac Games",
+      "fecha_lanzamiento": "2021-06-11",
+      "precio": 59.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1895880/header.jpg?t=1695916209"
+  },
+  {
+      "id": 30,
+      "nombre": "Sekiro: Shadows Die Twice",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "FromSoftware",
+      "fecha_lanzamiento": "2019-03-22",
+      "precio": 59.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg?t=1678991267"
+  },
+  {
+      "id": 31,
+      "nombre": "Elden Ring",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "FromSoftware",
+      "fecha_lanzamiento": "2022-02-25",
+      "precio": 59.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg?t=1683618443"
+  },
+  {
+      "id": 32,
+      "nombre": "Bayonetta 3",
+      "categoria": [
+          "Accion"
+      ],
+      "desarrollador": "PlatinumGames",
+      "fecha_lanzamiento": "2022-10-28",
+      "precio": 69.99,
+      "imagen": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000046400/b8253606e02af78e2e3447748917047cae78a1c009ad7d32d1f70b2816f157b4"
+  },
+  {
+      "id": 33,
+      "nombre": "The Legend of Zelda: Breath of the Wild 2",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Nintendo EPD",
+      "fecha_lanzamiento": "2023-03-09",
+      "precio": 59.99,
+      "imagen": "https://cellplay.com.ar/img/Public/1081-producto-whatsapp-image-2023-03-13-at-19-14-02-7357.jpeg"
+  },
+  {
+      "id": 34,
+      "nombre": "Starfield",
+      "categoria": [
+          "Rol"
+      ],
+      "desarrollador": "Bethesda Game Studios",
+      "fecha_lanzamiento": "2023-11-11",
+      "precio": 69.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg?t=1696622369"
+  },
+  {
+      "id": 35,
+      "nombre": "God of War: Ragnarök",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Santa Monica Studio",
+      "fecha_lanzamiento": "2022-11-09",
+      "precio": 59.99,
+      "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/aqZdSwWyy9JcQ66BxHDKrky6.jpg?w=440&thumb=false"
+  },
+  {
+      "id": 36,
+      "nombre": "Hogwarts Legacy",
+      "categoria": [
+          "Aventura"
+      ],
+      "desarrollador": "Avalanche Software",
+      "fecha_lanzamiento": "2023-02-10",
+      "precio": 69.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg?t=1694060626"
+  },
+  {
+      "id": 37,
+      "nombre": "Spider-Man 2",
+      "categoria": [
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Insomniac Games",
+      "fecha_lanzamiento": "2023-06-02",
+      "precio": 59.99,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2b/MarvelsSpiderMan2.jpg"
+  },
+  {
+      "id": 38,
+      "nombre": "The Callisto Protocol",
+      "categoria": [
+          "Terror"
+      ],
+      "desarrollador": "Striking Distance Studios",
+      "fecha_lanzamiento": "2023-12-02",
+      "precio": 59.99,
+      "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1544020/header.jpg?t=1684815136"
+  },
+  {
+      "id": 38,
+      "nombre": "Fallout 5",
+      "categoria": [
+          "Rol",
+          "Accion",
+          "Aventura"
+      ],
+      "desarrollador": "Bethesda Game Studios",
+      "fecha_lanzamiento": "2024-11-11",
+      "precio": 69.99,
+      "imagen": "https://areajugones.sport.es/wp-content/uploads/2022/06/fallout5-1080x609.jpg.webp"
+  }
+]

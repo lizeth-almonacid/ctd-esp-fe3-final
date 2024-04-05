@@ -1,0 +1,31 @@
+[
+    {
+      "nombre": "Tarjeta de Regalo 1",
+      "imagen": "/nintendo.jpg",
+      "categoria": ["Regalo", "Especial"],
+      "fecha_lanzamiento": "2023-01-15",
+      "precio": 25.00
+    },
+    {
+      "nombre": "Tarjeta de Regalo 2",
+      "imagen": "/play.jpg",
+      "categoria": ["Regalo", "Ocasión Especial"],
+      "fecha_lanzamiento": "2023-02-20",
+      "precio": 50.00
+    },
+    {
+      "nombre": "Tarjeta de Regalo 3",
+      "imagen": "/steam.jpg",
+      "categoria": ["Regalo", "Cumpleaños"],
+      "fecha_lanzamiento": "2023-03-10",
+      "precio": 10.00
+    },
+    {
+      "nombre": "Tarjeta de Regalo 4",
+      "imagen": "/xbox.png",
+      "categoria": ["Regalo", "Aniversario"],
+      "fecha_lanzamiento": "2023-04-05",
+      "precio": 75.00
+    }
+  ]
+  
